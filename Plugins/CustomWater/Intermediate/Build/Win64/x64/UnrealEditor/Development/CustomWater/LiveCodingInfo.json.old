@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomWater.cpp.obj": [
+			"CustomWater.init.gen.cpp.obj",
+			"WaterMeshActor.gen.cpp.obj",
+			"WaterMeshActor.cpp.obj",
+			"WaterMeshComponent.cpp.obj",
+			"WaterMeshSceneProxy.cpp.obj",
+			"WaterModule.cpp.obj",
+			"WaterQuadTree.cpp.obj",
+			"WaterUtils.cpp.obj",
+			"WaterVertexFactory.cpp.obj"
+		]
+	}
+}

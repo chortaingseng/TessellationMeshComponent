@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomWater.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\chort\Desktop\UnrealWork\CustomProject - 2\Intermediate\Build\Win64\x64\CustomProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\chort\Desktop\UnrealWork\CustomProject - 2\Plugins\CustomWater\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomWater\Module.CustomWater.cpp.obj"
+"C:\Users\chort\Desktop\UnrealWork\CustomProject - 2\Plugins\CustomWater\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomWater\Default.rc2.res"
+/OUT:"C:\Users\chort\Desktop\UnrealWork\CustomProject - 2\Plugins\CustomWater\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomWater\UnrealEditor-CustomWater.lib"
